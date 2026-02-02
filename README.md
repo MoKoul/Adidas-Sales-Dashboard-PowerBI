@@ -7,7 +7,7 @@ Interactive sales performance dashboard built in Power BI, analyzing Adidas 2020
 
 ## Project Overview
 This dashboard provides stakeholders with a clear view of Adidas sales performance across regions, retailers, products, and sales channels. It features:
-- Interactive slicers for dynamic filtering (Product, Retailer, Sales Method, Region, State, City, Year)
+- Interactive slicers for dynamic filtering (Year, Region, State,, Retailer, Sales Method)
 - Two pages: **Overview** (high-level KPIs and trends) and **Details** (granular breakdowns and geographic view)
 - Focus on business insights for revenue growth and profitability
 
